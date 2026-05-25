@@ -125,7 +125,7 @@ function App() {
                     width:"25em",
                     height:"15rem",
                     border:"1px solid black",
-                    backgroundImage:'url(/cv.png)',
+                    backgroundImage:'url(./img/cv.png)',
                     backgroundRepeat:"no-repeat",
                     backgroundSize: "cover",
                     backgroundPosition: "center",
