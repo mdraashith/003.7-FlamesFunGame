@@ -160,7 +160,7 @@ function App() {
                 sm: "25rem"
               },
               minHeight: {
-                xs: "11rem",
+                xs: "9rem",
                 md: "15rem"
               },
               border:"1px solid black",
