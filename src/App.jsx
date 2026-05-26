@@ -53,7 +53,10 @@ function App() {
     <>
       <Box
         sx={{
-          minHeight: "100vh",
+            minHeight:{
+      xs:"120vh",
+      md:"100vh"
+    },
           display: "flex",
           justifyContent:{
             xs:"center",
@@ -191,7 +194,6 @@ function App() {
                   xs: "6rem",
                   md: "8rem"
                 }, height: {
-                  xs: "2.5rem",
                   md: "3rem"
                 },borderRadius: "10px", color: "#67bf1a", "&:hover": {
 
