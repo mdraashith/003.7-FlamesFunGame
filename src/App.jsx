@@ -109,7 +109,7 @@ function App() {
           <TextField
             label="Your Name"
             variant="outlined"
-            sx={{ width: "30rem" }}
+            fullWidth
             onChange={(e) => setName1(e.target.value)}
           />
 
@@ -118,7 +118,7 @@ function App() {
 
             label="Partner Name"
             variant="outlined"
-            sx={{ width: "30rem" }}
+            fullWidth
             onChange={(e) => setName2(e.target.value)}
           />
 
