@@ -74,7 +74,7 @@ function App() {
         <Box
           sx={{
             width: {
-              xs: "70%",
+              xs: "71%",
               sm: "25rem",
               md: "30rem"
             },
@@ -91,7 +91,7 @@ function App() {
             flexDirection: "column",
             justifyContent: "space-around",
             alignItems: "center",
-            backdropFilter: "blur(8px)",
+            backdropFilter: "blur(1px)",
             background: "rgba(255,255,255,0.1)",
             boxShadow: "0px 0px 20px rgba(0,0,0,0.3)",
             gap: "1rem",
