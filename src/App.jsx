@@ -55,24 +55,26 @@ function App() {
         sx={{
           minHeight: "100vh",
           display: "flex",
-          justifyContent: "center",
+          justifyContent:{
+            xs:"center",
+            md:"center"
+          },
           alignItems: "center",
           textAlign: "center",
           backgroundImage: 'url(./img/bg.png)',
           backgroundRepeat: "no-repeat",
           backgroundSize:{
-            xs:"contain",
-            sm:"cover",
-          },
+   xs:"100% auto",
+   sm:"cover"
+},
           backgroundPosition: "center",
-          overflow: "hidden",
-          padding: "1rem",
+          overflow:"hidden",
         }}
       >
         <Box
           sx={{
             width: {
-              xs: "90%",
+              xs: "79%",
               sm: "25rem",
               md: "30rem"
             },
