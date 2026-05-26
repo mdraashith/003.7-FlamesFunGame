@@ -83,7 +83,7 @@ function App() {
               md: "2rem"
             },
             minHeight: {
-              xs: "8rem",
+              xs: "4rem",
               md: "20rem"
             },
             borderRadius: "15px",
@@ -156,11 +156,11 @@ function App() {
               transform:
                 "translate(-50%,-50%)",
               width: {
-                xs: "85%",
+                xs: "75%",
                 sm: "25rem"
               },
               minHeight: {
-                xs: "9rem",
+                xs: "8rem",
                 md: "15rem"
               },
               border:"1px solid black",
