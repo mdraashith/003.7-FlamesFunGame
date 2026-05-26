@@ -102,7 +102,7 @@ function App() {
             }
           }}
         >
-          <Typography variant="h4" sx={{ fontWeight: "bolder", color: " #163ad6", fontFamily: "fangsong", fontSize: { xs: "2rem", md: "3rem" } }}>
+          <Typography variant="h4" sx={{ fontWeight: "bolder", color: " #163ad6", fontFamily: "fangsong", fontSize: { xs: "1.2rem", md: "3rem" } }}>
             Flames Game
           </Typography>
 
@@ -128,7 +128,7 @@ function App() {
               background: "linear-gradient(to right, #ff416c, #ff4b2b)",
               fontWeight: "bolder",
               fontSize: {
-                xs: "0.9rem",
+                xs: "0.7rem",
                 md: "1rem"
               },
               borderRadius: "10px",
