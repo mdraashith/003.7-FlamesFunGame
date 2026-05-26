@@ -83,7 +83,7 @@ function App() {
               md: "2rem"
             },
             minHeight: {
-              xs: "18rem",
+              xs: "15rem",
               md: "20rem"
             },
             borderRadius: "15px",
