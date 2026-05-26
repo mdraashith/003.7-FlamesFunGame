@@ -79,22 +79,22 @@ function App() {
               md: "30rem"
             },
             padding: {
-              xs: "0.8rem",
-              md: "2rem"
+              xs: "0.7rem",
+              md: "1.5rem"
             },
             minHeight: {
-              xs: "15rem",
-              md: "20rem"
+              xs: "13rem",
+              md: "18rem"
             },
             borderRadius: "15px",
             display: "flex",
             flexDirection: "column",
-            justifyContent: "space-around",
+            justifyContent: "center",
             alignItems: "center",
             backdropFilter: "blur(1px)",
             background: "rgba(255,255,255,0.1)",
             boxShadow: "0px 0px 20px rgba(0,0,0,0.3)",
-            gap: "0.6rem",
+            gap: "0.7rem",
             "&:hover": {
               background: "linear-gradient(to right, #c0158d, #667eea)",
               transform: "scale(1.05)",
