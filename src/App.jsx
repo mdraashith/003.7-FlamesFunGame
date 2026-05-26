@@ -74,7 +74,7 @@ function App() {
         <Box
           sx={{
             width: {
-              xs: "79%",
+              xs: "70%",
               sm: "25rem",
               md: "30rem"
             },
