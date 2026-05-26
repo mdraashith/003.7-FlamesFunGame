@@ -74,16 +74,16 @@ function App() {
         <Box
           sx={{
             width: {
-              xs: "71%",
+              xs: "80%",
               sm: "25rem",
               md: "30rem"
             },
             padding: {
-              xs: "1rem",
+              xs: "0.8rem",
               md: "2rem"
             },
             minHeight: {
-              xs: "4rem",
+              xs: "15rem",
               md: "20rem"
             },
             borderRadius: "15px",
@@ -94,7 +94,7 @@ function App() {
             backdropFilter: "blur(1px)",
             background: "rgba(255,255,255,0.1)",
             boxShadow: "0px 0px 20px rgba(0,0,0,0.3)",
-            gap: "1rem",
+            gap: "0.6rem",
             "&:hover": {
               background: "linear-gradient(to right, #c0158d, #667eea)",
               transform: "scale(1.05)",
