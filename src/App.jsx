@@ -54,7 +54,7 @@ function App() {
       <Box
         sx={{
             minHeight:{
-      xs:"120vh",
+      xs:"100vh",
       md:"100vh"
     },
           display: "flex",
